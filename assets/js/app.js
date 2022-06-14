@@ -1,4 +1,4 @@
-unction filter(){
+function filter(){
     
     var filterValue, input, ul,li,p,i;
      input = document.getElementById("search");
